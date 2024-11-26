@@ -1,4 +1,4 @@
-package com.zetcode;
+package com.GUI;
 
 import java.awt.event.KeyEvent;
 import javax.swing.ImageIcon;
@@ -47,12 +47,12 @@ public class Paddle extends Sprite  {
 
         if (key == KeyEvent.VK_LEFT) {
 
-            dx = -1;
+            dx = -2;
         }
 
         if (key == KeyEvent.VK_RIGHT) {
 
-            dx = 1;
+            dx = 2;
         }
     }
 

@@ -1,4 +1,4 @@
-package com.zetcode;
+package com.GUI;
 
 import javax.swing.ImageIcon;
 

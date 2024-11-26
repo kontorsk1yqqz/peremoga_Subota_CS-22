@@ -1,4 +1,4 @@
-package com.zetcode;
+package com.GUI;
 
 import java.awt.Image;
 import java.awt.Rectangle;
